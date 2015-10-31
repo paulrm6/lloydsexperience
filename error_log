@@ -1,0 +1,24 @@
+[31-Aug-2015 12:25:07 America/Denver] PHP Notice:  Undefined variable: authorized in /home3/bmacdon1/public_html/bmacdonald.me.uk/index.php on line 11
+[31-Aug-2015 12:25:07 America/Denver] PHP Notice:  Undefined variable: variable in /home3/bmacdon1/public_html/bmacdonald.me.uk/index.php on line 16
+[31-Aug-2015 12:25:07 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home3/bmacdon1/public_html/bmacdonald.me.uk/index.php on line 16
+[31-Aug-2015 12:25:07 America/Denver] PHP Notice:  Undefined variable: variable in /home3/bmacdon1/public_html/bmacdonald.me.uk/index.php on line 18
+[31-Aug-2015 12:25:07 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home3/bmacdon1/public_html/bmacdonald.me.uk/index.php on line 18
+[31-Aug-2015 12:25:55 America/Denver] PHP Notice:  Undefined variable: authorized in /home3/bmacdon1/public_html/bmacdonald.me.uk/index.php on line 11
+[31-Aug-2015 12:25:55 America/Denver] PHP Notice:  Undefined variable: variable in /home3/bmacdon1/public_html/bmacdonald.me.uk/index.php on line 16
+[31-Aug-2015 12:25:55 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home3/bmacdon1/public_html/bmacdonald.me.uk/index.php on line 16
+[31-Aug-2015 12:25:55 America/Denver] PHP Notice:  Undefined variable: variable in /home3/bmacdon1/public_html/bmacdonald.me.uk/index.php on line 18
+[31-Aug-2015 12:25:55 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home3/bmacdon1/public_html/bmacdonald.me.uk/index.php on line 18
+[31-Aug-2015 12:26:05 America/Denver] PHP Notice:  Undefined variable: authorized in /home3/bmacdon1/public_html/bmacdonald.me.uk/index.php on line 11
+[31-Aug-2015 12:26:05 America/Denver] PHP Notice:  Undefined variable: variable in /home3/bmacdon1/public_html/bmacdonald.me.uk/index.php on line 16
+[31-Aug-2015 12:26:05 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home3/bmacdon1/public_html/bmacdonald.me.uk/index.php on line 16
+[31-Aug-2015 12:26:05 America/Denver] PHP Notice:  Undefined variable: variable in /home3/bmacdon1/public_html/bmacdonald.me.uk/index.php on line 18
+[31-Aug-2015 12:26:05 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home3/bmacdon1/public_html/bmacdonald.me.uk/index.php on line 18
+[31-Aug-2015 12:26:17 America/Denver] PHP Notice:  Undefined variable: authorized in /home3/bmacdon1/public_html/bmacdonald.me.uk/index.php on line 11
+[31-Aug-2015 12:26:17 America/Denver] PHP Notice:  Undefined variable: variable in /home3/bmacdon1/public_html/bmacdonald.me.uk/index.php on line 16
+[31-Aug-2015 12:26:17 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home3/bmacdon1/public_html/bmacdonald.me.uk/index.php on line 16
+[31-Aug-2015 12:26:17 America/Denver] PHP Notice:  Undefined variable: variable in /home3/bmacdon1/public_html/bmacdonald.me.uk/index.php on line 18
+[31-Aug-2015 12:26:17 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home3/bmacdon1/public_html/bmacdonald.me.uk/index.php on line 18
+[31-Aug-2015 12:26:20 America/Denver] PHP Notice:  Undefined variable: variable in /home3/bmacdon1/public_html/bmacdonald.me.uk/index.php on line 15
+[31-Aug-2015 12:26:20 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home3/bmacdon1/public_html/bmacdonald.me.uk/index.php on line 15
+[31-Aug-2015 12:26:20 America/Denver] PHP Notice:  Undefined variable: variable in /home3/bmacdon1/public_html/bmacdonald.me.uk/index.php on line 17
+[31-Aug-2015 12:26:20 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home3/bmacdon1/public_html/bmacdonald.me.uk/index.php on line 17

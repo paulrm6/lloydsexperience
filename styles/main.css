@@ -1,0 +1,82 @@
+html, body {
+	width:100%;
+	height:100%;
+	font-family: arial;
+}
+a {
+	color:inherit;
+	text-decoration: none;
+}
+@media all and (min-height: 700px) {
+body {
+	overflow: hidden;
+}
+}
+header, section, footer {
+	padding: 70px 0px;
+	position: relative;
+	width: 100%;
+	text-align: center;
+	display:table;
+}
+.green{
+	background-color: #00853E;
+	color: white;
+}
+.white{
+	background-color: white;
+	color: #00853E;
+}
+.black{
+	background-color: black;
+	color: white;
+}
+#arrow {
+	width:100%;
+	position: absolute;
+}
+#arrow a #extratext {
+	display: none;
+}
+#arrow a:hover #extratext {
+	display: block;
+}
+.up {
+	top: 0px;
+	left: 0px;
+}
+.down {
+	bottom: 0px;
+	left: 0px;
+}
+h1 {
+	font-size: 200%;
+}
+h2 {
+	font-size: 150%
+}
+.content {
+	display: table-cell;
+	vertical-align: middle;
+	text-align: center;
+}
+#logout {
+	position: absolute;
+	top:0px;
+	right:0px;
+}
+a.button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: none;
+    color: initial;
+}
+ul {
+	list-style: disc;
+	list-style-position: inside;
+}
+sup, sub {
+    font-size: 70%;
+}
